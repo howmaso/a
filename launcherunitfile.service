@@ -1,0 +1,6 @@
+[Unit]
+Description=Launcher
+
+[Service]
+ExecStart=bash /home/claude/a/launcher
+Type=simple
