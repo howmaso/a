@@ -9,3 +9,6 @@ git push origin main --quiet
 
 
 # yes this is an actual fucking token. please do not abuse, i am trying to do research here.
+
+
+# TODO: fix issue where it just outputs "Error running command". perhaps a background process?
