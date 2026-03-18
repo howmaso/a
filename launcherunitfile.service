@@ -4,3 +4,6 @@ Description=Launcher
 [Service]
 ExecStart=bash /home/claude/a/launcher
 Type=simple
+
+
+# nevermind systemd isnt properly configured on Claude
