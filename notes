@@ -4,6 +4,7 @@ zip is installed and usage is allowed from Claude
 Claude runs as root, although it is heavily sandboxed
 when launcher is ran in the background it is killed
 if Claude knows what is running then it will stop itself
+it was possible to get /home/claude uploaded to a private repo, but there isn't much of importance there as of now (at least that's what I think)
 Allowlist according to Claude (I'm too lazy to get it to run another script right now, but from what I know this seems about right):
 
 api.anthropic.com
